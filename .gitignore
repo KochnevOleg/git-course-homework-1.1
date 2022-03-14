@@ -1,0 +1,10 @@
+#ignore tmp folder
+/tmp
+
+#ignore index.html_old && NeuroStartUp.png_backup
+**********_old
+****************_backup
+
+#ignore Thumbs.db && .DS_Store
+Thumbs.db
+.DS_Store
